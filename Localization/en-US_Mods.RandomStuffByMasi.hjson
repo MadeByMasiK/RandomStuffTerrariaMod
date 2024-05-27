@@ -1,11 +1,11 @@
 Items: {
 	Rubber: {
 		DisplayName: Rubber
-		Tooltip: ""
+		Tooltip: It feels sticky...
 	}
 
 	RubberSword: {
 		DisplayName: Rubber Sword
-		Tooltip: ""
+		Tooltip: What a sticky sword...
 	}
 }
