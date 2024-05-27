@@ -30,7 +30,7 @@ namespace RandomStuffByMasi.Content.Items
             Item.autoReuse = true; // Can the item auto swing by holding the attack button
 
             // Other properties
-            Item.maxStack = 9999; // How many items can be in one inventory slot
+            Item.maxStack = 1; // How many items can be in one inventory slot
             Item.value = 30; // Item sell price in copper coins
             Item.rare = ItemRarityID.White; // The color of item's name in game. Check https://terraria.wiki.gg/wiki/Rarity
             Item.useStyle = ItemUseStyleID.Swing;
