@@ -8,4 +8,16 @@ Items: {
 		DisplayName: Rubber Sword
 		Tooltip: What a sticky sword...
 	}
+
+	GrandmastersRubberSword: {
+		DisplayName: Grandmasters Rubber Sword
+		Tooltip: Strength and will are what make a weapon.
+	}
+
+	SupremeRubberSword: {
+		DisplayName: Supreme Rubber Sword
+		Tooltip: Imagine if I had a real weapon.
+	}
 }
+
+Projectiles.SupremeRubberSwordProjectile.DisplayName: Supreme Rubber Sword Projectile

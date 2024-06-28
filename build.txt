@@ -1,5 +1,5 @@
 displayName = Random Stuff by Masi
 author = Masi K.
-version = 0.0.1.1
+version = 0.0.1.4
 homepage = https://github.com/MadeByMasiK/RandomStuffTerrariaMod
 buildIgnore = *.md
