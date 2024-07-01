@@ -18,6 +18,14 @@ Items: {
 		DisplayName: Supreme Rubber Sword
 		Tooltip: Imagine if I had a real weapon.
 	}
+
+	ShitSniper: {
+		Tooltip: ""
+		DisplayName: Shit Sniper
+	}
 }
 
-Projectiles.SupremeRubberSwordProjectile.DisplayName: Supreme Rubber Sword Projectile
+Projectiles: {
+	SupremeRubberSwordProjectile.DisplayName: Supreme Rubber Sword Projectile
+	ShitSniperProjectile.DisplayName: Shit Sniper Projectile
+}
