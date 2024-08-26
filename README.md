@@ -3,7 +3,7 @@
 
 ## Added stuff
 
-3 Weapons
+4 Weapons
 1 Material
 
 
@@ -11,7 +11,7 @@
 
 Weapons:
 - Shitsniper
-- Giant Sword (Literally giant)
+- Giant Sword Upgrade (Literally giant)
 - Magic weapon
 - Summon weapon
 

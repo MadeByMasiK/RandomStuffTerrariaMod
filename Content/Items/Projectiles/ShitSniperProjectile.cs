@@ -19,6 +19,7 @@ namespace RandomStuffByMasi.Content.Items.Projectiles
 			Projectile.DamageType = DamageClass.Ranged;
 			Projectile.damage = 15;
 			Projectile.maxPenetrate = 2;
+			Projectile.tileCollide = false;
 		}
 	}
 }

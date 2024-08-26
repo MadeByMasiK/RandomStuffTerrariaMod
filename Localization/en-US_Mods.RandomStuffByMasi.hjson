@@ -23,6 +23,11 @@ Items: {
 		Tooltip: ""
 		DisplayName: Shit Sniper
 	}
+
+	GiantSword: {
+		Tooltip: ""
+		DisplayName: Giant Sword
+	}
 }
 
 Projectiles: {
