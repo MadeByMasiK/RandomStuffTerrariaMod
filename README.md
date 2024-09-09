@@ -3,21 +3,29 @@
 
 ## Added stuff
 
-4 Weapons
+5 Weapons
 1 Material
 
 
 ## TODO
 
 Weapons:
-- Shitsniper
+- Shitsniper Upgrade
 - Giant Sword Upgrade (Literally giant)
 - Magic weapon
 - Summon weapon
 
 Vanity:
 - Jax Set
+- Rubber Duck
 
 NPC:
 - Jax (Enemy)
 - Rubber boy
+
+Crafting Blocks:
+- Rubber Block
+
+Furniture:
+- Rubber Bench
+- Rubber Table
