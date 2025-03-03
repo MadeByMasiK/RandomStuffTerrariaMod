@@ -2,7 +2,6 @@
 
 
 ## Added stuff
-5 Weapons
 7 Weapons
 1 Material
 
@@ -10,8 +9,6 @@
 ## TODO
 
 Weapons:
-- Shitsniper Upgrade
-- Giant Sword Upgrade (Literally giant)
 - Magic weapon
 - Summon weapon
 
