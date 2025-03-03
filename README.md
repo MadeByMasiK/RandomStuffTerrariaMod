@@ -3,15 +3,22 @@
 
 ## Added stuff
 
+<<<<<<< HEAD
 5 Weapons
+=======
+7 Weapons
+>>>>>>> 20b05d1 (created upgrade for sniper and giant sword)
 1 Material
 
 
 ## TODO
 
 Weapons:
+<<<<<<< HEAD
 - Shitsniper Upgrade
 - Giant Sword Upgrade (Literally giant)
+=======
+>>>>>>> 20b05d1 (created upgrade for sniper and giant sword)
 - Magic weapon
 - Summon weapon
 

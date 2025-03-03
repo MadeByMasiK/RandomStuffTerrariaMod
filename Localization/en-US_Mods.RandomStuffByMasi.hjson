@@ -28,6 +28,16 @@ Items: {
 		Tooltip: ""
 		DisplayName: Giant Sword
 	}
+
+	ShitDMR: {
+		Tooltip: ""
+		DisplayName: Shit D M R
+	}
+
+	ComicallyLargeSword: {
+		DisplayName: Comically Large Sword
+		Tooltip: ""
+	}
 }
 
 Projectiles: {

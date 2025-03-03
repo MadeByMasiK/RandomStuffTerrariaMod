@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 This is mod that I use for adding random stuff for me and my friends modded playthrough and just to learn how to mod Terraria.
+=======
+This is mod that I use for adding random stuff for me and my friends modded playthrough and just to learn how to mod Terraria. 
+It adds some items and materials and hopefully NPCs and enemies later
+>>>>>>> 20b05d1 (created upgrade for sniper and giant sword)
